@@ -1,7 +1,7 @@
 -- ==========================================================
 -- SCRIPT: 03_queries_oficina.sql
 -- DESCRIÇÃO: Consultas DQL e análises de KPIs do banco db_oficina
--- AUTOR: SchCodes
+-- AUTOR: Ericson Schmidt Bicalho
 -- ==========================================================
 
 USE db_oficina;

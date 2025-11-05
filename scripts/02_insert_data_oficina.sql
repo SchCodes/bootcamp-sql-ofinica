@@ -1,7 +1,7 @@
 -- ==========================================================
 -- SCRIPT: 02_insert_data_oficina.sql
 -- DESCRIÇÃO: Inserção de dados de teste para db_oficina
--- AUTOR: SchCodes
+-- AUTOR: Ericson Schmidt Bicalho
 -- ==========================================================
 
 USE db_oficina;

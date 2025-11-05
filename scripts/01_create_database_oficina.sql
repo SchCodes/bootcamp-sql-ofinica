@@ -1,7 +1,7 @@
 -- ==========================================================
 -- SCRIPT: 01_create_database_oficina.sql
 -- DESCRIÇÃO: Criação completa do banco de dados db_oficina
--- AUTOR: SchCodes
+-- AUTOR: Ericson Schmidt Bicalho
 -- ==========================================================
 
 DROP DATABASE IF EXISTS db_oficina;
