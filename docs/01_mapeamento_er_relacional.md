@@ -58,8 +58,7 @@ Este documento descreve o mapeamento do modelo conceitual (ER) da oficina mecân
 
 - Todas as tabelas utilizam `InnoDB` e seguem o padrão `utf8mb4`.  
 - Todas as chaves primárias usam `INT AUTO_INCREMENT`.  
-- Atributos monetários usam `DECIMAL(10,2)`.   
-- Relacionamentos configurados com restrições lógicas de exclusão (`CASCADE`, `RESTRICT`, `SET NULL`).
+- Atributos monetários usam `DECIMAL(10,2)`.
 - Unicidade garantida em `cpf`, `cnpj`, `email` e `placa`.
 
 ---
